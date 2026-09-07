@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 <!--
+<img width="763" height="327" alt="image" src="https://github.com/user-attachments/assets/6e94a45b-e2ef-47d0-9831-b679123216af" />
+
 **onaistudioai/onaistudioai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
