@@ -1,7 +1,7 @@
 <h1 align="center">ONAI</h1>
 
 <p align="center">
-🚀 Desenvolvedor Full Stack com foco em <b>Back-end</b>, Front-end e Automação
+Trabalho principalmente com automação de processos e analise de fluxos, desenvolvo desde automações simples como atendimento  ao cliente tanto um sistema completo de agentes que automatizam o fluxo da sua empresa, uso langgraph e n8n, tambem tenho experiencia eem desevolvimento de landing pages
 </p>
 
 <p align="center">
