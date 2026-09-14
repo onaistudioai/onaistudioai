@@ -43,8 +43,8 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onaistudioai&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaistudioai&layout=compact&theme=radical&hide_border=true" width="30%" />
+  <img src="https://onai-readme-stats.vercel.app/api?username=onaistudioai&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://onai-readme-stats.vercel.app/api/top-langs/?username=onaistudioai&layout=compact&theme=radical&hide_border=true" width="30%" />
 </p>
 
 <p align="center">
