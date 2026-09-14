@@ -1,4 +1,6 @@
-<h1 align="center">Opa, bem vindo, me chamo Fabiano Cardoso</h1>
+<h1 align="center">Bem vindo, me chamo Fabiano Cardos!
+                  Bienvenido, me llamo Fabiano Cardoso!
+</h1>
 
 <p align="center">
 Trabalho principalmente com automação de processos e analise de fluxos, desenvolvo desde automações simples como atendimento  ao cliente tanto um sistema completo de agentes que automatizam o fluxo da sua empresa, uso langgraph e n8n, tambem tenho experiencia eem desevolvimento de landing pages
