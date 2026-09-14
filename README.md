@@ -5,9 +5,9 @@
 Trabalho principalmente com automação de processos e analise de fluxos, desenvolvo desde automações simples como atendimento  ao cliente tanto um sistema completo de agentes que automatizam o fluxo da sua empresa, uso langgraph e n8n, tambem tenho experiencia eem desevolvimento de landing pages
 </p>
 
-<p 2 align="center">
+<p align="center">
 Trabajo principalmente en la automatización de procesos y el análisis de flujos; desarrollo desde automatizaciones sencillas, como la atención al cliente, hasta sistemas completos de agentes que automatizan el flujo de trabajo de su empresa. Utilizo LangGraph y n8n, y también cuento con experiencia en el desarrollo de landing pages.
-</p2>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabiano-cardoso-aa6a2425b/" target="_blank">
