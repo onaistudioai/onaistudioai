@@ -45,7 +45,7 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 
 <table align="center" width="100%" cellpadding="14">
 <tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
 <h3 align="center">Frontend</h3>
 
@@ -54,7 +54,7 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 </p>
 
 </td>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
 <h3 align="center">Backend</h3>
 
@@ -69,12 +69,7 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 </p>
 
 </td>
-</tr>
-</table>
-
-<table align="center" width="100%" cellpadding="14">
-<tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
 <h3 align="center">Dados</h3>
 
@@ -88,7 +83,7 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 </p>
 
 </td>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top" width="25%">
 
 <h3 align="center">Nuvem e Publicação</h3>
 
