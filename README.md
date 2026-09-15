@@ -144,7 +144,7 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 <h3 align="center">Design</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&perline=4&theme=dark" height="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3&theme=dark" height="50" alt="Figma, Photoshop e Illustrator" />
 </p>
 
 </td>
