@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=115&section=header&color=0:5C5C5C,50:6F6F6F,100:828282&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=115&section=header&color=0:0B1033,50:191970,100:2C3E9E&animation=twinkling"
     alt="Cabeçalho"
   />
 </div>
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=828282&center=true&vCenter=true&width=700&height=55&lines=Bem+vindo%2C+me+chamo+Fabiano+Cardoso!;Bienvenido%2C+me+llamo+Fabiano+Cardoso!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=4A5FC1&center=true&vCenter=true&width=700&height=55&lines=Bem+vindo%2C+me+chamo+Fabiano+Cardoso!;Bienvenido%2C+me+llamo+Fabiano+Cardoso!"
       alt="Bem vindo, me chamo Fabiano Cardoso!"
     />
   </a>
