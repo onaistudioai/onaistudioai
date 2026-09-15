@@ -6,8 +6,14 @@
   />
 </div>
 
-<h1 align="center">Bem vindo, me chamo Fabiano Cardoso!</h1>
-<h2 align="center">Bienvenido, me llamo Fabiano Cardoso!</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=828282&center=true&vCenter=true&width=700&height=55&lines=Bem+vindo%2C+me+chamo+Fabiano+Cardoso!;Bienvenido%2C+me+llamo+Fabiano+Cardoso!"
+      alt="Bem vindo, me chamo Fabiano Cardoso!"
+    />
+  </a>
+</div>
 
 <p align="center">
 Trabalho principalmente com automação de processos e analise de fluxos, desenvolvo desde automações simples como atendimento  ao cliente tanto um sistema completo de agentes que automatizam o fluxo da sua empresa, uso langgraph e n8n, tambem tenho experiencia eem desevolvimento de landing pages
