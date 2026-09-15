@@ -1,8 +1,8 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:5C5C5C,50:6F6F6F,100:828282&animation=twinkling&text=Fabiano%20Cardoso&fontColor=FFFFFF&fontSize=48&fontAlignY=38"
-    alt="Fabiano Cardoso"
+    src="https://capsule-render.vercel.app/api?type=waving&height=115&section=header&color=0:5C5C5C,50:6F6F6F,100:828282&animation=twinkling"
+    alt="Cabeçalho"
   />
 </div>
 
