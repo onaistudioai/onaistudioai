@@ -37,22 +37,158 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 
 ---
 
-<h3 align="center">🛠️ Stack</h3>
+<div align="center">
+  <h2>O que utilizo e tenho experiência</h2>
+</div>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Automação e Agentes de IA</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=FFFFFF" height="30" alt="LangGraph" title="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FFFFFF" height="30" alt="LangChain" title="LangChain" />
+  <img src="https://img.shields.io/badge/CrewAI-0D1117?style=flat-square&logo=crewai&logoColor=FFFFFF" height="30" alt="CrewAI" title="CrewAI" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" height="30" alt="n8n" title="n8n" />
+  <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=groq&logoColor=FFFFFF" height="30" alt="Groq" title="Groq" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" height="30" alt="Claude" title="Claude" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6&theme=dark" height="50" alt="HTML, CSS, JavaScript, TypeScript, React e Next.js" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi&perline=3&theme=dark" height="50" alt="Node.js, Python e FastAPI" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+  <img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=3E67B1" height="30" alt="Zod" title="Zod" />
+  <img src="https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=E92063" height="30" alt="Pydantic" title="Pydantic" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-0D1117?style=flat-square&logo=drizzle&logoColor=C5F74F" height="30" alt="Drizzle ORM" title="Drizzle ORM" />
 </p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Dados</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2&theme=dark" height="50" alt="PostgreSQL e MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Neon-0D1117?style=flat-square&logo=neon&logoColor=00E599" height="30" alt="Neon" title="Neon" />
+  <img src="https://img.shields.io/badge/LanceDB-0D1117?style=flat-square&logo=lancedb&logoColor=FFFFFF" height="30" alt="LanceDB" title="LanceDB" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Nuvem e Publicação</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,docker,aws&perline=3&theme=dark" height="50" alt="Vercel, Docker e AWS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=FFFFFF" height="30" alt="Railway" title="Railway" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Testes</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vitest-0D1117?style=flat-square&logo=vitest&logoColor=6E9F18" height="30" alt="Vitest" title="Vitest" />
+  <img src="https://img.shields.io/badge/pytest-0D1117?style=flat-square&logo=pytest&logoColor=0A9EDC" height="30" alt="pytest" title="pytest" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Ferramentas de Desenvolvimento</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian&perline=4&theme=dark" height="50" alt="Git, GitHub, VS Code e Obsidian" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%" cellpadding="14">
+<tr>
+<td align="center" valign="top">
+
+<h3 align="center">Design</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&perline=1&theme=dark" height="50" alt="Figma" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <h3 align="center">📊 Stats</h3>
 
