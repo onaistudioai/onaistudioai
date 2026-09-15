@@ -69,3 +69,11 @@ Trabajo principalmente en la automatización de procesos y el análisis de flujo
 
 <p align="center">📫 Me chama: WhatsApp, Instagram ou LinkedIn — links acima</p>
 
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0B1033,50:191970,100:2C3E9E&animation=twinkling"
+    alt="Rodapé"
+  />
+</div>
